@@ -14,4 +14,3 @@ jobs:
     - uses: niklasmerz/release-at-vote-stage@master
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-        message: 'Test'
