@@ -8,7 +8,7 @@ on:
     
 
 jobs:
-  greeting:
+  action-test:
     runs-on: ubuntu-latest
     steps:
     - uses: niklasmerz/release-at-vote-stage@master
